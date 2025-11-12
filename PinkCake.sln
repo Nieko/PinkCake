@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PinkCake", "PinkCake\PinkCake.csproj", "{4A041BCE-C71F-486D-9E2E-6D753FA60F05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PinkCake.Service", "PinkCake.Service\PinkCake.Service.csproj", "{4C4E6F5B-7DC3-444B-8BBF-56928D2D7F1E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PinkCakeSetup", "PinkCakeSetup\PinkCakeSetup.vdproj", "{095D6234-BABA-3ED6-5513-FEB56DD82E80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PinkCake.Settings", "PinkCake.Settings\PinkCake.Settings.csproj", "{93D19090-3FD0-460E-9D48-C9CA863BBE6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A041BCE-C71F-486D-9E2E-6D753FA60F05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A041BCE-C71F-486D-9E2E-6D753FA60F05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A041BCE-C71F-486D-9E2E-6D753FA60F05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A041BCE-C71F-486D-9E2E-6D753FA60F05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C4E6F5B-7DC3-444B-8BBF-56928D2D7F1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C4E6F5B-7DC3-444B-8BBF-56928D2D7F1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C4E6F5B-7DC3-444B-8BBF-56928D2D7F1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C4E6F5B-7DC3-444B-8BBF-56928D2D7F1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{095D6234-BABA-3ED6-5513-FEB56DD82E80}.Debug|Any CPU.ActiveCfg = Debug
+		{095D6234-BABA-3ED6-5513-FEB56DD82E80}.Release|Any CPU.ActiveCfg = Release
+		{93D19090-3FD0-460E-9D48-C9CA863BBE6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93D19090-3FD0-460E-9D48-C9CA863BBE6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93D19090-3FD0-460E-9D48-C9CA863BBE6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93D19090-3FD0-460E-9D48-C9CA863BBE6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {015906CE-71DB-47BF-ABF6-8F3CC13BE3F7}
+	EndGlobalSection
+EndGlobal
